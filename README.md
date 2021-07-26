@@ -11,4 +11,4 @@
 ## 界面如下
 ![picture1](https://github.com/SongJgit/Emotion-Recognize-Demo/blob/main/picture/UI%20screen.png)
 ## 需要按照如下结构放置模型
-![picture1](https://github.com/SongJgit/Emotion-Recognize-Demo/blob/main/picture/file%20screen.png)
+![picture2](https://github.com/SongJgit/Emotion-Recognize-Demo/blob/main/picture/file%20screen.png)
